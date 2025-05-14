@@ -1,7 +1,7 @@
 # ClaudiusCast
 ![كلاديوس يشاهد قنوات beIN SPORTS](https://raw.githubusercontent.com/AldeabAhmed/ClaudiusCast/main/Claudius.png)
 
-## 🇸🇦 بالعربية
+
 
 **ClaudiusCast** هو أداة بث رياضي بسيطة وفعّالة، صممت لتوفير وصول سريع وآمن إلى القنوات الرياضية بجودة عالية، بدون إعلانات مزعجة أو اشتراكات أو تعقيدات تقنية.
 
@@ -44,7 +44,7 @@ ClaudiusCast هو برنامج غير رسمي، مقدم لأغراض تعلي�
 
 ---
 
-## 🇺🇸 In English
+ 
 
 **ClaudiusCast** is a simple yet effective sports streaming tool built to provide fast and secure access to high-quality sports channels, without annoying ads, subscriptions, or complex setups.
 
