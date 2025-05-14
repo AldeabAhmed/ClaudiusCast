@@ -1,5 +1,6 @@
 # ClaudiusCast
 ![كلاديوس يشاهد قنوات beIN SPORTS](https://raw.githubusercontent.com/AldeabAhmed/ClaudiusCast/main/Claudius.png)
+
 ## 🇸🇦 بالعربية
 
 **ClaudiusCast** هو أداة بث رياضي بسيطة وفعّالة، صممت لتوفير وصول سريع وآمن إلى القنوات الرياضية بجودة عالية، بدون إعلانات مزعجة أو اشتراكات أو تعقيدات تقنية.
@@ -14,36 +15,24 @@
 
 ### ⚙️ كيفية الاستخدام
 
-#### 1️⃣ تحميل الباينري
+#### 1️⃣ تحميل البرنامج عبر الطرفية
 
-1. زر [مستودع ClaudiusCast على GitHub](https://github.com/AldeabAhmed/ClaudiusCast).
-2. قم بتحميل الملف التنفيذي `claudius` المناسب لنظامك.
+يمكنك تحميل وتشغيل البرنامج مباشرة من خلال الأوامر التالية:
 
-#### 2️⃣ تشغيل ClaudiusCast
+```bash
+git clone https://github.com/AldeabAhmed/ClaudiusCast.git
+cd ClaudiusCast
+chmod +x ./claudius
+./claudius
+```
 
-##### على macOS وLinux
+#### 2️⃣ اختيار القناة
 
-1. افتح الطرفية (Terminal).
-2. انتقل إلى مجلد الملف باستخدام الأمر `cd`.
-3. اجعل الملف قابلاً للتنفيذ:
+بعد تشغيل البرنامج، ستظهر لك قائمة بالقنوات الرياضية المتاحة. أدخل الرقم المقابل للقناة التي ترغب بمشاهدتها.
 
-   ```bash
-   chmod +x ./claudius
-   ```
+#### 3️⃣ استمتع بالبث
 
-4. ثم شغل البرنامج:
-
-   ```bash
-   ./claudius
-   ```
-
-#### 3️⃣ اختيار القناة
-
-بمجرد تشغيل البرنامج، ستظهر لك قائمة بالقنوات الرياضية المتوفرة. اختر القناة بإدخال الرقم المناسب.
-
-#### 4️⃣ استمتع بالمشاهدة
-
-سيبدأ البث المباشر بجودة عالية وفورية.
+ابدأ بمشاهدة القنوات بجودة عالية وبدون أي إعلانات.
 
 ### ⚠️ إخلاء المسؤولية
 
@@ -69,41 +58,24 @@ ClaudiusCast هو برنامج غير رسمي، مقدم لأغراض تعلي�
 
 ### ⚙️ How to Use
 
-#### 1️⃣ Download the Binary
+#### 1️⃣ Download and Run via Terminal
 
-1. Visit the [ClaudiusCast GitHub Repository](https://github.com/AldeabAhmed/ClaudiusCast).
-2. Download the encrypted executable file `claudius` for your system.
+You can clone and run the program directly with the following commands:
 
-#### 2️⃣ Run ClaudiusCast
+```bash
+git clone https://github.com/AldeabAhmed/ClaudiusCast.git
+cd ClaudiusCast
+chmod +x ./claudius
+./claudius
+```
 
-##### On macOS and Linux
+#### 2️⃣ Select a Channel
 
-1. Open your terminal.
-2. Navigate to the directory containing the file:
+After launching the program, a list of available sports channels will be displayed. Enter the number corresponding to the channel you wish to watch.
 
-   ```bash
-   cd /path/to/claudius
-   ```
+#### 3️⃣ Enjoy the Stream
 
-3. Make it executable:
-
-   ```bash
-   chmod +x ./claudius
-   ```
-
-4. Then run it:
-
-   ```bash
-   ./claudius
-   ```
-
-#### 3️⃣ Select a Channel
-
-Once launched, you’ll see a list of available sports channels. Enter the corresponding number to select one.
-
-#### 4️⃣ Enjoy the Stream
-
-The stream will begin in full HD instantly with no ads or buffering.
+Streaming will begin instantly in HD with no ads or interruptions.
 
 ### ⚠️ Disclaimer
 
