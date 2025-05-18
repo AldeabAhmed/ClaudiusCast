@@ -22,8 +22,8 @@
 ```bash
 git clone https://github.com/AldeabAhmed/ClaudiusCast.git
 cd ClaudiusCast
-chmod +x ./claudius
-./claudius
+chmod +x ./claudiusCats.sh
+./claudiusCats.sh
 ```
 
 #### 2️⃣ اختيار القناة
